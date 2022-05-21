@@ -2,7 +2,7 @@
 
 ## Santa Cruz Bronson
 
-Bronson 2.0 2016, medium frame
+2016 Bronson 2.0 Aluminum, medium frame matte Black-Blue. 27.5" wheels.
 
 ### Suspension
 
