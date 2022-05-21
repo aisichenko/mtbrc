@@ -16,7 +16,7 @@
 
 ### Drivetrain
 
-- SRAM GX, 11 speed
+- SRAM GX 1x11 X-HORIZON REAR DERAILLEUR, RD-GX-1-A1, max tooth 42
 
 ### Brakes
 
