@@ -18,6 +18,9 @@
 
 - SRAM GX 1x11 X-HORIZON REAR DERAILLEUR, RD-GX-1-A1, max tooth 42
 
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/55260620/169641254-582b15c8-f224-442b-9d9f-50b322bc44c4.png">
+
+
 ### Brakes
 
 SRAM Guide R
