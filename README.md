@@ -24,7 +24,7 @@ SRAM Guide R
 
 ## Helpful tools
 
-- [SRAM serial number lookup](https://www.sram.com/en/service/browse-by-product)
+- [SRAM serial number lookup](https://www.sram.com/en/service/browse-by-product). Component serial number locations are [here](https://www.sram.com/globalassets/document-hierarchy/service-manuals/component-serial-number-locator.pdf).
 
 
 ## General notes
