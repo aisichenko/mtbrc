@@ -16,10 +16,7 @@ Bronson 2.0 2016, medium frame
 
 ### Drivetrain
 
-Sram Eagle GX
-11 speed
-
-BRONSON 2.0 2016
+- SRAM GX, 11 speed
 
 ### Brakes
 
