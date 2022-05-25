@@ -1,4 +1,4 @@
-# My mountain bike setups
+# My mountain bike setup
 
 ## Santa Cruz Bronson
 
