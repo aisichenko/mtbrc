@@ -38,4 +38,4 @@ warranty for the original owner of the bike.
 
 ## Repair tips and notes
 
-[Tips](https://github.com/aisichenko/mtbrc/edit/main/tips.md)
+[Tips](https://github.com/aisichenko/mtbrc/blob/main/tips.md)
