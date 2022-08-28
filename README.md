@@ -35,3 +35,7 @@ SRAM Guide R
 For Santa Cruz: each frame purchased after May 1, 2015 carries a lifetime warranty, which is
 effective from the date of sale, and applies to the original owner. Additionally, the pivot bearings on every Santa Cruz bicycle carry a lifetime
 warranty for the original owner of the bike.
+
+## Repair tips and notes
+
+[tips.md]
