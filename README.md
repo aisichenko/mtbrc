@@ -1,6 +1,6 @@
 # My mountain bike setup
 
-Santa Cruz 2016 Bronson 2.0 Aluminum, medium frame matte Black-Blue. 27.5" wheels. [Link](https://www.santacruzbicycles.com/en-US/bike/bronson/2). For Santa Cruz: each frame purchased after May 1, 2015 carries a lifetime warranty, which is effective from the date of sale, and applies to the original owner. Additionally, the pivot bearings on every Santa Cruz bicycle carry a lifetime warranty for the original owner of the bike.
+**Santa Cruz 2016 Bronson 2.0 Aluminum**, medium frame matte Black-Blue. **27.5"** wheels. [Link](https://www.santacruzbicycles.com/en-US/bike/bronson/2). For Santa Cruz: each frame purchased after May 1, 2015 carries a lifetime warranty, which is effective from the date of sale, and applies to the original owner. Additionally, the pivot bearings on every Santa Cruz bicycle carry a lifetime warranty for the original owner of the bike.
 
 ## Suspension
 
