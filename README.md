@@ -18,6 +18,8 @@
 
 SRAM Guide R
 
+Rotor: max rotor size 203mm
+
 # General notes
 
 ## Maintenance and repair
