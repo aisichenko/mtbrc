@@ -5,7 +5,7 @@
 ## Suspension
 
 - Front: Rockshox Pike RC Solo Air, **150 mm** travel. FS-PIKE-RC-A2.
-  - preferred pressure = 50 psi
+  - preferred pressure = 70 psi
 - Rear: Rockshox Monarch RT, RS-MNR-RT-D2. DebonAir w/High Volume Eyelet. 200x57 eye-to-eye/stroke
   - preferred pressure =  170 psi in back, 25% sag
 
