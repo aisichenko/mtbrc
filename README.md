@@ -22,6 +22,11 @@
 
 - Rotor: SRAM Centerline 180. TA 17 MAR 16. (max rotor size 203mm)
   - Bolt torque 55 in-lbs 6.2 N-m
+ 
+## Dropper post
+
+2012 Reverb stealth
+- https://www.jensonusa.com/Rockshox-Reverb-Stealth-Service-Kit
 
 # General notes
 
