@@ -25,7 +25,7 @@
  
 ## Dropper post
 
-2012 Reverb stealth
+2012 Reverb stealth, Model ID: SP-RVB-STLH-B1
 - https://www.jensonusa.com/Rockshox-Reverb-Stealth-Service-Kit
 
 # General notes
